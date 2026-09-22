@@ -1,9 +1,7 @@
-# telecom-churn-sql-analysis
-End-to-end customer churn analysis using SQL Server 2022, CTEs, window functions, cohort analysis, stored procedures and Python visualization on 7,043 IBM Telco customers
 # Telecom Customer Churn Analysis
-### SQL Server | Python | Pandas | Matplotlib | Seaborn
+### SQL Server 2022 | Python | Pandas | Matplotlib | Seaborn
 
-![Heatmap](charts/04_heatmap.png)
+![Heatmap](04_heatmap.png)
 
 ## Project Overview
 End-to-end churn analysis on 7,043 IBM Telco customers using SQL Server 2022
@@ -66,16 +64,16 @@ payment users.
 ## Charts
 
 ### Churn Rate by Contract Type
-![Chart 1](charts/01_churn_by_contract.png)
+![Chart 1](01_churn_by_contract.png)
 
 ### Revenue at Risk by Contract Type
-![Chart 2](charts/02_revenue_at_risk.png)
+![Chart 2](02_revenue_at_risk.png)
 
 ### Churn Rate by Tenure Cohort
-![Chart 3](charts/tenure_cohort.png)
+![Chart 3](03_tenure_cohort.png)
 
 ### Churn Rate Matrix: Contract Type vs Internet Service
-![Chart 4](charts/04_heatmap.png)
+![Chart 4](04_heatmap.png)
 
 ## Dataset
 IBM Telco Customer Churn — [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
@@ -84,4 +82,4 @@ IBM Telco Customer Churn — [Kaggle](https://www.kaggle.com/datasets/blastchar/
 ## Author
 **Muhammad Aqib Khan**
 Statistical Officer | Data Analyst
-[LinkedIn](your-linkedin-url) | [GitHub](your-github-url)
+[LinkedIn](https://www.linkedin.com/in/your-profile) | [GitHub](https://github.com/Aqibkhan001)
